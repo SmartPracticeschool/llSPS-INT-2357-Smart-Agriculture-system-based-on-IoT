@@ -1,0 +1,1 @@
+[{"id":"f9c3c817.cd44e8","type":"http request","z":"ca764156.d82aa","name":"","method":"GET","ret":"obj","paytoqs":false,"url":"http://api.openweathermap.org/data/2.5/weather?q=Hyderabad,IN&appid=55e7463944d1f4bf497efc31c2e7e0c0","tls":"","persist":false,"proxy":"","authType":"","x":380,"y":220,"wires":[["2fb2a938.54d4d6","6f59cc7.1509534","78fbacb.e0cc254"]]}]
